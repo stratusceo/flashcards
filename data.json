@@ -1,0 +1,402 @@
+[
+    {
+        "de": "Verlassen",
+        "fr": "quitter"
+    },
+    {
+        "de": "Die Mensa",
+        "fr": "le restaurant universitaire"
+    },
+    {
+        "de": "Schlafen",
+        "fr": "dormir"
+    },
+    {
+        "de": "Einschlafen",
+        "fr": "s’endormir"
+    },
+    {
+        "de": "Lecker",
+        "fr": "délicieux"
+    },
+    {
+        "de": "Das Treffen",
+        "fr": "rendez-vous amical"
+    },
+    {
+        "de": "Der Termin",
+        "fr": "rendez-vous officiel"
+    },
+    {
+        "de": "Der Arzt",
+        "fr": "Le médecin"
+    },
+    {
+        "de": "Der Bauer",
+        "fr": "Le fermier"
+    },
+    {
+        "de": "Die Hausfrau",
+        "fr": "La femme au foyer"
+    },
+    {
+        "de": "Der Koch",
+        "fr": "Le cuisinier"
+    },
+    {
+        "de": "Der Tänzer",
+        "fr": "Le danseur"
+    },
+    {
+        "de": "Heilen",
+        "fr": "Guérir"
+    },
+    {
+        "de": "Behandeln",
+        "fr": "Traiter"
+    },
+    {
+        "de": "Essen zubereiten",
+        "fr": "Préparer à manger"
+    },
+    {
+        "de": "Putzen",
+        "fr": "Nettoyer"
+    },
+    {
+        "de": "Reparieren",
+        "fr": "Réparer"
+    },
+    {
+        "de": "Servieren",
+        "fr": "Servir"
+    },
+    {
+        "de": "Zeichnen",
+        "fr": "Dessiner"
+    },
+    {
+        "de": "Malen",
+        "fr": "Peindre"
+    },
+    {
+        "de": "Löschen",
+        "fr": "Éteindre"
+    },
+    {
+        "de": "Der Flugbegleiter",
+        "fr": "Le steward / L'hôtesse de l'air"
+    },
+    {
+        "de": "Der Musiker",
+        "fr": "Le musicien"
+    },
+    {
+        "de": "Der Zahnarzt",
+        "fr": "Le dentiste"
+    },
+    {
+        "de": "Speisen",
+        "fr": "Les plats"
+    },
+    {
+        "de": "Der Künstler",
+        "fr": "L'artiste"
+    },
+    {
+        "de": "Eine Versuche",
+        "fr": "Une tentative"
+    },
+    {
+        "de": "Die Feuerwehr",
+        "fr": "Les pompiers"
+    },
+    {
+        "de": "Der Unterricht",
+        "fr": "L'enseignement"
+    },
+    {
+        "de": "Unterrichten",
+        "fr": "Enseigner"
+    },
+    {
+        "de": "Der Pfleger",
+        "fr": "Le soignant"
+    },
+    {
+        "de": "Die Krankenschwester",
+        "fr": "L'infirmière"
+    },
+    {
+        "de": "Verbindung",
+        "fr": "Connexion"
+    },
+    {
+        "de": "Einer Firma",
+        "fr": "Une entreprise"
+    },
+    {
+        "de": "Die Praxis",
+        "fr": "Le cabinet médical / La pratique"
+    },
+    {
+        "de": "Sammeln",
+        "fr": "Collecter"
+    },
+    {
+        "de": "Die Werkstatt",
+        "fr": "L'atelier"
+    },
+    {
+        "de": "Originell",
+        "fr": "Original"
+    },
+    {
+        "de": "Original",
+        "fr": "Original"
+    },
+    {
+        "de": "Makler",
+        "fr": "Courtier"
+    },
+    {
+        "de": "Der Immobilienmakler",
+        "fr": "L'agent immobilier"
+    },
+    {
+        "de": "Schwer",
+        "fr": "Difficile"
+    },
+    {
+        "de": "Der Tierarzt",
+        "fr": "Le vétérinaire"
+    },
+    {
+        "de": "Der Tier",
+        "fr": "L'animal"
+    },
+    {
+        "de": "Ein Wald",
+        "fr": "Une forêt"
+    },
+    {
+        "de": "Ein Gericht",
+        "fr": "Un plat / Un tribunal"
+    },
+    {
+        "de": "Das Fahrrad",
+        "fr": "Le vélo"
+    },
+    {
+        "de": "Der Anwalt",
+        "fr": "L'avocat (profession)"
+    },
+    {
+        "de": "Schauspieler",
+        "fr": "Acteur"
+    },
+    {
+        "de": "Die Eigenschaft",
+        "fr": "La caractéristique"
+    },
+    {
+        "de": "Die Kompetenz",
+        "fr": "La compétence"
+    },
+    {
+        "de": "Ungeduldig",
+        "fr": "Impatient"
+    },
+    {
+        "de": "Ein Gespräch",
+        "fr": "Une conversation"
+    },
+    {
+        "de": "Das Bewerbungsgespräch",
+        "fr": "L'entretien d'embauche"
+    },
+    {
+        "de": "Erfahrung haben",
+        "fr": "Avoir de l'expérience"
+    },
+    {
+        "de": "Unterbezahlt",
+        "fr": "Sous-payé"
+    },
+    {
+        "de": "Überbezahlt",
+        "fr": "Surpayé"
+    },
+    {
+        "de": "Teamgeist haben",
+        "fr": "Avoir l'esprit d'équipe"
+    },
+    {
+        "de": "Geist",
+        "fr": "Esprit"
+    },
+    {
+        "de": "Erfahren",
+        "fr": "Expérimenté"
+    },
+    {
+        "de": "Gründlich",
+        "fr": "Méticuleux"
+    },
+    {
+        "de": "Müde",
+        "fr": "Fatigué"
+    },
+    {
+        "de": "Verantwortlich",
+        "fr": "Responsable"
+    },
+    {
+        "de": "Glücklich",
+        "fr": "Heureux"
+    },
+    {
+        "de": "Glück haben",
+        "fr": "Avoir de la chance"
+    },
+    {
+        "de": "Die Stärke",
+        "fr": "La force"
+    },
+    {
+        "de": "Die Schwäche",
+        "fr": "La faiblesse"
+    },
+    {
+        "de": "Bescheiden",
+        "fr": "Modeste"
+    },
+    {
+        "de": "Demütig",
+        "fr": "Humble"
+    },
+    {
+        "de": "Ungeduldig sein",
+        "fr": "Être impatient"
+    },
+    {
+        "de": "Leicht",
+        "fr": "Facile / Léger"
+    },
+    {
+        "de": "Belastbar",
+        "fr": "Résistant"
+    },
+    {
+        "de": "Unter Druck",
+        "fr": "Sous pression"
+    },
+    {
+        "de": "Denn",
+        "fr": "Car"
+    },
+    {
+        "de": "Nämlich",
+        "fr": "En effet"
+    },
+    {
+        "de": "Ehrlich",
+        "fr": "Honnête"
+    },
+    {
+        "de": "Fähig",
+        "fr": "Capable"
+    },
+    {
+        "de": "Anpassungsfähig",
+        "fr": "Adaptable"
+    },
+    {
+        "de": "Prüfen",
+        "fr": "Examiner"
+    },
+    {
+        "de": "Der Bauernhof",
+        "fr": "La ferme"
+    },
+    {
+        "de": "Einsparen",
+        "fr": "Économiser"
+    },
+    {
+        "de": "Betrauen",
+        "fr": "Confier"
+    },
+    {
+        "de": "Verhindern",
+        "fr": "Prévenir / Empêcher"
+    },
+    {
+        "de": "Leidenschaftlich",
+        "fr": "Passionné"
+    },
+    {
+        "de": "Düngemittel",
+        "fr": "Engrais"
+    },
+    {
+        "de": "Die Gesundheit",
+        "fr": "La santé"
+    },
+    {
+        "de": "Soda",
+        "fr": "Soda"
+    },
+    {
+        "de": "Rechnungen",
+        "fr": "Factures"
+    },
+    {
+        "de": "Die Aufgaben",
+        "fr": "Les tâches"
+    },
+    {
+        "de": "Die Abteilung",
+        "fr": "Le département"
+    },
+    {
+        "de": "Die Personalabteilung",
+        "fr": "Le département des ressources humaines"
+    },
+    {
+        "de": "Vertrieb",
+        "fr": "La distribution / Les ventes"
+    },
+    {
+        "de": "Die Buchhaltung",
+        "fr": "La comptabilité"
+    },
+    {
+        "de": "Die Finanzabteilung",
+        "fr": "Le département financier"
+    },
+    {
+        "de": "Der Vertrieb",
+        "fr": "Le service commercial"
+    },
+    {
+        "de": "Die Bewerbung",
+        "fr": "La candidature"
+    },
+    {
+        "de": "Der Lebenslauf",
+        "fr": "Le CV"
+    },
+    {
+        "de": "Das Bewerbungsschreiben",
+        "fr": "La lettre de motivation"
+    },
+    {
+        "de": "Der Bewerber",
+        "fr": "Le candidat"
+    },
+    {
+        "de": "Die Bedienung",
+        "fr": "Le service / Le serveur ou la serveuse"
+    }
+]
