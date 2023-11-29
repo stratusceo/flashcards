@@ -65,7 +65,7 @@ const Flashcard = () => {
 
 
   const checkAnswer = (selectedAnswer) => {
-    const isCorrect = selectedAnswer === correctAnswer;
+    const isCorrect = selectedAnswer.toLowerCase() === correctAnswer.toLowerCase();
     setIsAnswerCorrect(isCorrect);
     setShowPopup(true);
 
