@@ -398,5 +398,361 @@
     {
         "de": "Die Bedienung",
         "fr": "Le service / Le serveur ou la serveuse"
+    },
+    {
+        "de": "Anwalt",
+        "fr": "Avocat"
+    },
+    {
+        "de": "Arzt",
+        "fr": "Médecin"
+    },
+    {
+        "de": "Bauarbeiter",
+        "fr": "Ouvrier du bâtiment"
+    },
+    {
+        "de": "Bauer",
+        "fr": "Agriculteur"
+    },
+    {
+        "de": "Friseur",
+        "fr": "Coiffeur"
+    },
+    {
+        "de": "Computerspezialist",
+        "fr": "Spécialiste en informatique"
+    },
+    {
+        "de": "Fußballspieler",
+        "fr": "Joueur de football"
+    },
+    {
+        "de": "Gärtner",
+        "fr": "Jardinier"
+    },
+    {
+        "de": "Hausmann",
+        "fr": "Homme au foyer"
+    },
+    {
+        "de": "Polizist",
+        "fr": "Policier"
+    },
+    {
+        "de": "Koch",
+        "fr": "Cuisinier"
+    },
+    {
+        "de": "LKW-Fahrer",
+        "fr": "Conducteur de camion"
+    },
+    {
+        "de": "Pilot",
+        "fr": "Pilote"
+    },
+    {
+        "de": "Tänzer",
+        "fr": "Danseur"
+    },
+    {
+        "de": "Kellner",
+        "fr": "Serveur"
+    },
+    {
+        "de": "Schutzhelm",
+        "fr": "Casque de protection"
+    },
+    {
+        "de": "Ballettschuhe",
+        "fr": "Chaussures de ballet"
+    },
+    {
+        "de": "Tablett",
+        "fr": "Plateau"
+    },
+    {
+        "de": "Topf",
+        "fr": "Pot"
+    },
+    {
+        "de": "Pflanze",
+        "fr": "Plante"
+    },
+    {
+        "de": "LKW",
+        "fr": "Camion"
+    },
+    {
+        "de": "Geschirr",
+        "fr": "Vaisselle"
+    },
+    {
+        "de": "Schere",
+        "fr": "Ciseaux"
+    },
+    {
+        "de": "Computer",
+        "fr": "Ordinateur"
+    },
+    {
+        "de": "Ball",
+        "fr": "Ballon"
+    },
+    {
+        "de": "Traktor",
+        "fr": "Tracteur"
+    },
+    {
+        "de": "Stethoskop",
+        "fr": "Stéthoscope"
+    },
+    {
+        "de": "Gesetzbuch",
+        "fr": "Code de loi"
+    },
+    {
+        "de": "Pfeife",
+        "fr": "Sifflet"
+    },
+    {
+        "de": "Flugzeug",
+        "fr": "Avion"
+    },
+    {
+        "de": "Wirtschaftsprüfer",
+        "fr": "Commissaire aux comptes"
+    },
+    {
+        "de": "Landwirt",
+        "fr": "Agriculteur"
+    },
+    {
+        "de": "Dolmetscher",
+        "fr": "Interprète"
+    },
+    {
+        "de": "Altenpfleger",
+        "fr": "Aide-soignant"
+    },
+    {
+        "de": "Spediteur",
+        "fr": "Transporteur"
+    },
+    {
+        "de": "Steuerberater",
+        "fr": "Conseiller fiscal"
+    },
+    {
+        "de": "Lehrer",
+        "fr": "Enseignant"
+    },
+    {
+        "de": "Pressesprecher",
+        "fr": "Porte-parole"
+    },
+    {
+        "de": "Informatiker",
+        "fr": "Informaticien"
+    },
+    {
+        "de": "Bürokaufmann",
+        "fr": "Employé de bureau"
+    },
+    {
+        "de": "Arzthelfer",
+        "fr": "Assistant médical"
+    },
+    {
+        "de": "Rechtsanwalt",
+        "fr": "Avocat"
+    },
+    {
+        "de": "Optiker",
+        "fr": "Opticien"
+    },
+    {
+        "de": "die Festanstellung",
+        "fr": "le poste permanent"
+    },
+    {
+        "de": "befristeter Vertrag",
+        "fr": "contrat à durée déterminée"
+    },
+    {
+        "de": "sich bewerben",
+        "fr": "postuler"
+    },
+    {
+        "de": "der Bewerber",
+        "fr": "le candidat"
+    },
+    {
+        "de": "die Bewerbung",
+        "fr": "la candidature"
+    },
+    {
+        "de": "Bewerbungsunterlagen",
+        "fr": "dossier de candidature"
+    },
+    {
+        "de": "das Anschreiben",
+        "fr": "la lettre de motivation"
+    },
+    {
+        "de": "der Lebenslauf",
+        "fr": "le CV"
+    },
+    {
+        "de": "das Zeugnis",
+        "fr": "le diplôme/certificat"
+    },
+    {
+        "de": "gute Noten",
+        "fr": "bonnes notes"
+    },
+    {
+        "de": "das Vorstellungsgespräch",
+        "fr": "l'entretien d'embauche"
+    },
+    {
+        "de": "vollzeit",
+        "fr": "à temps plein"
+    },
+    {
+        "de": "teilzeit",
+        "fr": "à temps partiel"
+    },
+    {
+        "de": "der Nebenjob",
+        "fr": "le travail à temps partiel"
+    },
+    {
+        "de": "die Überstunden",
+        "fr": "les heures supplémentaires"
+    },
+    {
+        "de": "die Arbeitsbedingungen",
+        "fr": "les conditions de travail"
+    },
+    {
+        "de": "am Wochenende arbeiten",
+        "fr": "travailler le week-end"
+    },
+    {
+        "de": "halbtags arbeiten",
+        "fr": "travailler à mi-temps"
+    },
+    {
+        "de": "eine Herausforderung suchen",
+        "fr": "rechercher un défi"
+    },
+    {
+        "de": "Erfahrung sammeln",
+        "fr": "acquérir de l’expérience"
+    },
+    {
+        "de": "im Team arbeiten",
+        "fr": "travailler en équipe"
+    },
+    {
+        "de": "gut mit Menschen umgehen können",
+        "fr": "avoir un bon contact humain"
+    },
+    {
+        "de": "fleißig",
+        "fr": "assidu"
+    },
+    {
+        "de": "flexibel",
+        "fr": "flexible"
+    },
+    {
+        "de": "kommunikativ",
+        "fr": "communicatif"
+    },
+    {
+        "de": "wählerisch",
+        "fr": "sélectif"
+    },
+    {
+        "de": "belastbar",
+        "fr": "résistant au stress"
+    },
+    {
+        "de": "früh aufstehen",
+        "fr": "se lever tôt"
+    },
+    {
+        "de": "herausfordernd",
+        "fr": "stimulant"
+    },
+    {
+        "de": "mit Kindern arbeiten",
+        "fr": "travailler avec des enfants"
+    },
+    {
+        "de": "ehrgeizig",
+        "fr": "ambitieux"
+    },
+    {
+        "de": "sorgfältig",
+        "fr": "méticuleux"
+    },
+    {
+        "de": "geduldig",
+        "fr": "patient"
+    },
+    {
+        "de": "körperlich fit sein",
+        "fr": "être en bonne forme physique"
+    },
+    {
+        "de": "hilfsbereit",
+        "fr": "serviable"
+    },
+    {
+        "de": "verantwortungsbewuβt",
+        "fr": "responsable"
+    },
+    {
+        "de": "gut mit Kindern sein",
+        "fr": "être bon avec les enfants"
+    },
+    {
+        "de": "motiviert",
+        "fr": "motivé"
+    },
+    {
+        "de": "freundlich",
+        "fr": "aimable"
+    },
+    {
+        "de": "Sehr geehrte Damen und Herren",
+        "fr": "Mesdames et Messieurs"
+    },
+    {
+        "de": "hiermit möchte ich mich bei Ihnen als ... bewerben",
+        "fr": "par la présente, je souhaite postuler pour le poste de ..."
+    },
+    {
+        "de": "ich suche",
+        "fr": "je recherche"
+    },
+    {
+        "de": "meine Stärken",
+        "fr": "mes points forts"
+    },
+    {
+        "de": "ich habe schon/ich habe bereits ...",
+        "fr": "j'ai déjà ..."
+    },
+    {
+        "de": "über eine positive Nachricht würde ich mich sehr freuen",
+        "fr": "je serais très heureux de recevoir une réponse positive"
+    },
+    {
+        "de": "Mit freundlichen Grüßen",
+        "fr": "Cordialement"
     }
 ]
